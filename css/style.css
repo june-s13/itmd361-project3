@@ -122,7 +122,8 @@ video:hover{
     font-style: italic;
     color: rgb(75, 77, 58);
 }
-#map{
-	width:100%;
-	height:30rem;
-}
+#map {
+    margin: 0 auto;
+    height: 800px;
+    width: 75%;
+  }
